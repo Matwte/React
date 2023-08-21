@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "titulo": "Botines Nike 1",
+        "descripcion": "Bonites Nike Futbol",
+        "categoria": "botines",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 2,
+        "titulo": "Zapatillas Adidas",
+        "descripcion": "Zapatillas marca Adidas",
+        "categoria": "zapatillas",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 3,
+        "titulo": "Tacones",
+        "descripcion": "Tacones altos",
+        "categoria": "tacones",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 4,
+        "titulo": "Botines Adidas ",
+        "descripcion": "botines para jugar al futbol como Messi.",
+        "categoria": "botines",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500
+    },
+    {
+        "id": 5,
+        "titulo": "Tacones 2",
+        "descripcion": "Tacones altos para ser como una modelo",
+        "categoria": "tacones",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 6,
+        "titulo": "Zapatillas Fila",
+        "descripcion": "Zapatillas solo para facheros.",
+        "categoria": "zapatillas",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 7,
+        "titulo": "Botines Puma ",
+        "descripcion": "Botines para Rugby.",
+        "categoria": "botines",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 8,
+        "titulo": "Zapatillas de cuero",
+        "descripcion": "Zapatillad de cuero para ir a fiestas bien fino.",
+        "categoria": "zapatillas",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500
+    },
+    {
+        "id": 9,
+        "titulo": "Tacones 3",
+        "descripcion": "tacones pequeños para no caerte.",
+        "categoria": "tacones",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 10,
+        "titulo": "Botines Adidas 2 ",
+        "descripcion": "Botines Adidas, los mejores de este momento.",
+        "categoria": "botines",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500
+    },
+    {
+        "id": 11,
+        "titulo": "Zapatillas Converse 2 ",
+        "descripcion": "Zapatillas marca Converse para salir a hacer skate de forma fachera",
+        "categoria": "zapatillas",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 12,
+        "titulo": "Botines Puma 2 ",
+        "descripcion": "Botines para parar a cualquier jugador de manera Lisandro Martinez.",
+        "categoria": "botines",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500
+    },
+    {
+        "id": 13,
+        "titulo": "Tacones 4",
+        "descripcion": "Tacones de cuero amarillo.",
+        "categoria": "tacones",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 14,
+        "titulo": "Tacones 5",
+        "descripcion": "Tacones de cuero sintetico",
+        "categoria": "tacones",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500
+    },
+    {
+        "id": 15,
+        "titulo": "Zapatillas Converse",
+        "descripcion": "Zapatillas marca Converse",
+        "categoria": "zapatillas",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500
+    }
+   
+]
